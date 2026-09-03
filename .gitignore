@@ -1,0 +1,15 @@
+# personal data - results, calibration and evidence stay on each machine
+fh6_draggy_runs.json
+fh6_rollons.json
+fh6_audio_latency.json
+fh6_car_names.json
+fh6_runs/
+*.wav
+*.csv
+leaderboard.json
+
+# environment
+venv/
+__pycache__/
+*.pyc
+.DS_Store
